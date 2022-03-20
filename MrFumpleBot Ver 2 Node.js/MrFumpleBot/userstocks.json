@@ -1,0 +1,38 @@
+{
+  "246813230205370379": {
+    "stock_1_stocks": 5212,
+    "stock_2_stocks": 0,
+    "stock_3_stocks": 0,
+    "stock_4_stocks": 0,
+    "stock_5_stocks": 0,
+    "stock_6_stocks": 0,
+    "stock_7_stocks": 0,
+    "stock_8_stocks": 0,
+    "stock_9_stocks": 0
+  },
+  "280056068401397770": {
+    "stock_1_stocks": 151,
+    "stock_2_stocks": 0,
+    "stock_3_stocks": 0,
+    "stock_4_stocks": 0,
+    "stock_5_stocks": 0,
+    "stock_6_stocks": 0,
+    "stock_7_stocks": 0,
+    "stock_8_stocks": 0,
+    "stock_9_stocks": 0
+  },
+  "204028118602612736": {
+    "Stocks_One_Amount": 0,
+    "Stocks_Two_Amount": 0,
+    "Stocks_Three_Amount": 0,
+    "Stocks_Four_Amount": 0,
+    "Stocks_Five_Amount": 0,
+    "Stocks_Six_Amount": 0,
+    "Stocks_Seven_Amount": 0,
+    "Stocks_Eight_Amount": 0,
+    "Owned_Stocks": {
+      "Stock_One": "None",
+      "Stock_Two": "None"
+    }
+  }
+}

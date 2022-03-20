@@ -1,0 +1,629 @@
+{
+  "Regulated_Heaven": {
+    "log_category_Name": "📋Logs📋",
+
+    "command_logs_Name": "command_logs",
+    "command_logs_Topic": "logs for each command made in the server.",
+
+    "bot_logs_Name": "the-historians-logs",
+    "bot_logs_Topic": "logs from the bot.",
+
+    "dyno_logs_Name": "dyno-logs",
+    "dyno_logs_Topic": "logs made by the dyno bot.",
+
+    "dev_logs_Name": "🔨dev-logs💻",
+    "dev_logs_Topic": "Chat for me to ramble on about things I'm developing which will mostly be the discord bot but sometimes I may talk about games I'm working on or even art.",
+
+    "general_category_Name": "🔥The Realms🔥",
+
+    "rules_Name": "commandments",
+    "rules_Topic": "Where you can learn the code of conduct of the server",
+
+    "religous_rules_Name": "religous_laws",
+    "religous_rules_Topic": "Where the Archangel can state the laws of the church!",
+
+    "ads_Name": "advertisements",
+    "ads_Topic": "Where holy beings can buy billboards to put in the clouds.",
+
+    "news_Name": "news-for-saints",
+
+    "general_chat_Name": "town_square",
+    "general_chat_Topic": "Place for the realms of the heavens, the earth, and the underworld to collide in conversation!",
+
+    "memes_Name": "hall_of_memes",
+    "memes_Topic": "Where the art of everything and memes resides!",
+
+    "suggestions_Name": "confessional",
+    "suggestions_Topic": "This chat is for asking questions about the server/giving suggestions on how to make it better.",
+
+    "bot_channel_Name": "casino_of_vice",
+    "bot_channel_Topic": "A place to lose all your money to your own greed!",
+
+    "fumplestocks_Name": "fumplestocks™",
+    "fumplestocks_Topic": "For the holy stock market.",
+
+    "stocks_channel_Name": "stock-discussion",
+    "stocks_channel_Topic": "For people to discuss how they are going to hell for their investment.",
+
+    "auction_Name": "auction_house",
+    "auction_Topic": "Place for fabulous bidding of the realms.",
+
+    "bids_Name": "holy_bids",
+    "bids_Topic": "Where to go to review the highest of bids",
+
+    "music_channel_Name": "choir_house",
+    "music_channel_Topic": "Place for heavenly beats!",
+
+    "revolution_Name": "revolution",
+    "revolution_Topic": "Place for peeps to revolt!",
+
+    "nsfw_channel_Name": "devils_playground",
+    "nsfw_channel_Topic": "No.",
+
+
+    "game_category_Name": "🎮Gamer Realm🎮",
+
+    "deals_channel_Name": "💰deals-of-an-eternity💰",
+    "deals_channel_Topic": "Place for godly deals to be seen for free games!",
+
+    "fire_channel_Name": "fe",
+    "fire_channel_Topic": "fire emblem",
+
+    "smash_channel_Name": "smash",
+    "smash_channel_Topic": "Place for people to discuss smash.",
+
+    "kyle_category_Name": "Seraphim",
+
+    "kyle_stories_Name": "legends_from_the_archangel",
+    "kyle_stories_Topic": "Where the Archangel can regale us with many stories or make announcements.",
+
+    "appeasement_Name": "appeasement",
+    "appeasement_Topic": "Place for people to repent for their sins against the gods.",
+
+    "owned_category_Name": "⛺Owned Realms⛺",
+
+    "voice_category_Name": "🎤Voice Channels",
+
+    "screenshare_Name": "screenshare",
+    "screenshare_Topic": "Place for people to share their screens.",
+
+    "community_chat_Name": "🕴Community Chat",
+    "saloon_Name": "Valley of Elah",
+    "admin_chat_Name": "The Domain",
+    "music_chat_Name": "Choir House",
+    "afk_channe_Name": "Purgatory",
+
+    "gvoice_category": "🎮Game Voice Channels",
+
+    "admin_category_Name": "⚡The Powers That Be!⚡",
+
+
+
+    "micah_role_Name": "The Holy Spirit",
+    "micah_role_Color": "#ce5900",
+
+    "john_role_Name": "God",
+    "john_role_Color": "#ffffff",
+
+    "kyle_role_Name": "Jophiel",
+    "kyle_role_Color": "#c16ada",
+
+    "marco_role_Name": "Uriel",
+    "marco_role_Color": "#ffb7c5",
+
+    "chris_role_Name": "Zachariah",
+    "chris_role_Color": "#2a472a",
+
+    "bot_role_Name": "The Son",
+    "bot_role_Color": "#00ff55",
+
+    "nic_role_Name": "Satan",
+    "nic_role_Color": "#e41515",
+
+    "ashley_role_Name": "Mary Magdalene",
+    "ashley_role_Color": "#0800af",
+
+    "the_bots_role_Name": "Four Horsemen of the Apocalypse",
+    "the_bots_role_Color": "#808080",
+
+    "nic_rank2_Name": "The Damned",
+    "nic_rank2_Color": "#e42626",
+
+    "punish_role_Name": "Purgatory",
+    "punish_role_Color": "#080808",
+
+    "reporter_role_Name": "messenger of Satan",
+    "reporter_role_Color": "#9b0000",
+
+    "kyle_rank2_Name": "Seraphim",
+    "kyle_rank2_Color": "#b10000",
+
+    "kyle_rank1_Name": "Angels",
+    "kyle_rank1_Color": "#ff0000",
+
+    "john_rank2_Name": "The Holy",
+    "john_rank2_Color": "#ffa900",
+
+    "nic_rank1_Name": "Demons",
+    "nic_rank1_Color": "#c90e0e",
+
+    "john_rank1_Name": "Mortals",
+    "john_rank1_Color": "#bdbdbd",
+
+    "slaves_role_Name": "Slaves",
+    "slaves_role_Color": "#863c00",
+
+    "scarborough_role_Name": "💰Holy Hoarder💰",
+    "scarborough_role_Color": "#f2ff00"
+  },
+
+  "The_Fumple_Mafia": {
+    "log_category_Name": "📋Da Logs Kid📋",
+
+    "command_logs_Name": "command_logs",
+    "command_logs_Topic": "logs for each command made in the server.",
+
+    "bot_logs_Name": "the-historians-logs",
+    "bot_logs_Topic": "logs from the bot.",
+
+    "dyno_logs_Name": "dyno-logs",
+    "dyno_logs_Topic": "logs made by the dyno bot.",
+
+    "dev_logs_Name": "🔨dev-logs💻",
+    "dev_logs_Topic": "Chat for me to ramble on about things I'm developing which will mostly be the discord bot but sometimes I may talk about games I'm working on or even art.",
+
+    "general_category_Name": "Town Under New Management",
+
+    "rules_Name": "da-family-rules",
+    "rules_Topic": "Where you can learn the code of conduct of the mafia",
+
+    "religous_rules_Name": "advisory_rules",
+    "religous_rules_Topic": "ayy man listen to the Consigliere!",
+
+    "ads_Name": "propaganda",
+    "ads_Topic": "where we can spread the message",
+
+    "news_Name": "news-for-sinners",
+
+    "general_chat_Name": "da_town_square",
+    "general_chat_Topic": "Place for the realms of the heavens, the earth, and the underworld to collide in conversation!",
+
+    "memes_Name": "illegal_art",
+    "memes_Topic": "Where the art of everything and memes resides!",
+
+    "suggestions_Name": "confessional",
+    "suggestions_Topic": "This chat is for asking questions about the server/giving suggestions on how to make it better.",
+
+    "bot_channel_Name": "underground_casino",
+    "bot_channel_Topic": "A place to lose all your money to your own greed!",
+
+    "fumplestocks_Name": "fumplestocks™",
+    "fumplestocks_Topic": "For the holy stock market.",
+
+    "stocks_channel_Name": "stock-discussion",
+    "stocks_channel_Topic": "For people to discuss how they are going to hell for their investment.",
+
+    "auction_Name": "auction_house",
+    "auction_Topic": "Place for fabulous bidding of the realms.",
+
+    "bids_Name": "highest_bidders",
+    "bids_Topic": "Where to go to review the highest of bids",
+
+    "music_channel_Name": "choir_house",
+    "music_channel_Topic": "Place for heavenly beats!",
+
+    "revolution_Name": "revolution",
+    "revolution_Topic": "Place for peeps to revolt!",
+
+    "nsfw_channel_Name": "strip_club",
+    "nsfw_channel_Topic": "No.",
+
+
+    "game_category_Name": "🎮Gamer Realm🎮",
+
+    "deals_channel_Name": "💰illegal-deals💰",
+    "deals_channel_Topic": "Place for godly deals to be seen for free games!",
+
+    "fire_channel_Name": "fe",
+    "fire_channel_Topic": "fire emblem",
+
+    "smash_channel_Name": "smash",
+    "smash_channel_Topic": "Place for people to discuss smash.",
+
+    "kyle_category_Name": "Consigliere-Room",
+
+    "kyle_stories_Name": "consigliere_legends",
+    "kyle_stories_Topic": "Where the Archangel can regale us with many stories or make announcements.",
+
+    "appeasement_Name": "appeasement",
+    "appeasement_Topic": "You poor fool.",
+
+    "owned_category_Name": "⛺Owned Realms⛺",
+
+    "voice_category_Name": "🎤Voice Channels",
+
+    "screenshare_Name": "screenshare",
+    "screenshare_Topic": "Place for people to share their screens.",
+
+    "community_chat_Name": "🕴Community Chat",
+    "saloon_Name": "Illegal Bar🍻",
+    "admin_chat_Name": "Da Room",
+    "music_chat_Name": "Choir House",
+    "afk_channe_Name": "Six Feet Under⚰️",
+
+    "gvoice_category": "🎮Game Voice Channels",
+
+    "admin_category_Name": "⚡The Powers That Be!⚡",
+
+
+
+    "micah_role_Name": "Da Legend",
+    "micah_role_Color": "#FFC400",
+
+    "john_role_Name": "GodFather",
+    "john_role_Color": "#ffffff",
+
+    "kyle_role_Name": "Consigliere",
+    "kyle_role_Color": "#0091BD",
+
+    "marco_role_Name": "Hitman",
+    "marco_role_Color": "#ffb7c5",
+
+    "chris_role_Name": "Zachariah",
+    "chris_role_Color": "#2a472a",
+
+    "bot_role_Name": "Secretary",
+    "bot_role_Color": "#FF196D",
+
+    "nic_role_Name": "Underboss",
+    "nic_role_Color": "#C70000",
+
+    "ashley_role_Name": "Mary Magdalene",
+    "ashley_role_Color": "#0800af",
+
+    "the_bots_role_Name": "Four Horsemen of the Apocalypse",
+    "the_bots_role_Color": "#808080",
+
+    "nic_rank2_Name": "Loose Cannon",
+    "nic_rank2_Color": "#e42626",
+
+    "punish_role_Name": "Dead",
+    "punish_role_Color": "#080808",
+
+    "reporter_role_Name": "Da Press",
+    "reporter_role_Color": "#003CC7",
+
+    "kyle_rank2_Name": "Associates",
+    "kyle_rank2_Color": "#7DFFCF",
+
+    "kyle_rank1_Name": "Dealers",
+    "kyle_rank1_Color": "#26FF00",
+
+    "john_rank2_Name": "Capo",
+    "john_rank2_Color": "#D8E825",
+
+    "nic_rank1_Name": "Soldiers",
+    "nic_rank1_Color": "#E84925",
+
+    "john_rank1_Name": "Hooligans",
+    "john_rank1_Color": "#B06400",
+
+    "slaves_role_Name": "Debt Ridden",
+    "slaves_role_Color": "#693C00",
+
+    "scarborough_role_Name": "💰Treasurer💰",
+    "scarborough_role_Color": "#f2ff00"
+  },
+
+  "Christmas": {
+    "log_category_Name": "📋Logs📋",
+
+    "command_logs_Name": "command_logs",
+    "command_logs_Topic": "logs for each command made in the server.",
+
+    "bot_logs_Name": "the-historians-logs",
+    "bot_logs_Topic": "logs from the bot.",
+
+    "dyno_logs_Name": "dyno-logs",
+    "dyno_logs_Topic": "logs made by the dyno bot.",
+
+    "dev_logs_Name": "🔨dev-logs💻",
+    "dev_logs_Topic": "Chat for me to ramble on about things I'm developing which will mostly be the discord bot but sometimes I may talk about the games I'm working on or even art.",
+
+    "general_category_Name": "💈The North Pole💈",
+
+    "rules_Name": "laws",
+    "rules_Topic": "Where you can learn how to not get on the naughty list",
+
+    "religous_rules_Name": "krampus_laws",
+    "religous_rules_Topic": "Where Krampus can tell you what you did wrong!",
+
+    "ads_Name": "advertisements",
+    "ads_Topic": "Where you can find out what toys to buy.",
+
+    "news_Name": "news-for-peasants",
+
+    "general_chat_Name": "arctic_circle",
+    "general_chat_Topic": "Place for peeps to talk",
+
+    "memes_Name": "meme_factory",
+    "memes_Topic": "Where the elves make all the memes!",
+
+    "suggestions_Name": "suggestions_q-and-a",
+    "suggestions_Topic": "This chat is for asking questions about the server/giving suggestions on how to make it better.",
+
+    "bot_channel_Name": "the_jolly_casino",
+    "bot_channel_Topic": "For parties, games, and other everyday activities.",
+
+    "fumplestocks_Name": "fumplestocks™",
+    "fumplestocks_Topic": "For the Kingdom's stock market.",
+
+    "stocks_channel_Name": "stock-discussion",
+    "stocks_channel_Topic": "For people to discuss how they will never get their money back.",
+
+    "auction_Name": "auction_house",
+    "auction_Topic": "Place for the Rich to bid for dominance.",
+
+    "bids_Name": "bids",
+    "bids_Topic": "Where to go to review the highest of bids",
+
+    "music_channel_Name": "holiday_tunes",
+    "music_channel_Topic": "Place to dance and sing!",
+
+    "revolution_Name": "revolution",
+    "revolution_Topic": "Place for peasants to revolt!",
+
+    "nsfw_channel_Name": "naughty_images",
+    "nsfw_channel_Topic": "No.",
+
+    "game_category_Name": "🎮Games🎮",
+
+    "deals_channel_Name": "💰deals-for-the-holidays💰",
+    "deals_channel_Topic": "Place for deals to be seen for free games!",
+
+    "fire_channel_Name": "fe",
+    "fire_channel_Topic": "fire emblem",
+
+    "smash_channel_Name": "smash",
+    "smash_channel_Topic": "Place for people to discuss smash.",
+
+    "kyle_category_Name": "Krampus Domain",
+
+    "kyle_stories_Name": "tales-from-krampus",
+    "kyle_stories_Topic": "place for krampus to scare children.",
+
+    "appeasement_Name": "appeasement",
+    "appeasement_Topic": "Place for people to repent for their sins against the church.",
+
+    "owned_category_Name": "⛺Owned Land⛺",
+
+    "voice_category_Name": "🎤Voice Channels",
+
+    "screenshare_Name": "screenshare",
+    "screenshare_Topic": "Place for people to share their screens.",
+
+    "community_chat_Name": "🕴Community Chat",
+    "saloon_Name": "🍺Tavern🍺",
+    "admin_chat_Name": "🎅Santa’s Room🎅",
+    "music_chat_Name": "🎈Holiday Tunes🎵",
+    "afk_channe_Name": "❓Lost in the Snow❓",
+
+    "gvoice_category_Name": "🎮Game Voice Channels",
+
+    "admin_category_Name": "⚡The Holiday Powers⚡",
+
+
+
+    "micah_role_Name": "Christ",
+    "micah_role_Color": "#fcf819",
+
+    "john_role_Name": "Santa",
+    "john_role_Color": "#fc3535",
+
+    "kyle_role_Name": "Krampus",
+    "kyle_role_Color": "#2d2d28",
+
+    "marco_role_Name": "Frosty",
+    "marco_role_Color": "#04d8f4",
+
+    "chris_role_Name": "Bruh",
+    "chris_role_Color": "#0410f4",
+
+    "bot_role_Name": "Grinch",
+    "bot_role_Color": "#07bc53",
+
+    "nic_role_Name": "Rudolph",
+    "nic_role_Color": "#f4041c",
+
+    "the_bots_role_Name": "Four Horsemen of Jolliness",
+    "the_bots_role_Color": "#ad0643",
+
+    "nic_rank2_Name": "Reindeer",
+    "nic_rank2_Color": "#d39650",
+
+    "punish_role_Name": "Coal",
+    "punish_role_Color": "#0c0c0b",
+
+    "reporter_role_Name": "Abominable Snowman",
+    "reporter_role_Color": "#eafbfc",
+
+    "kyle_rank2_Name": "Underlings",
+    "kyle_rank2_Color": "#911b01",
+
+    "kyle_rank1_Name": "Naughty",
+    "kyle_rank1_Color": "#dd2800",
+
+    "john_rank2_Name": "Elves",
+    "john_rank2_Color": "#16f460",
+
+    "nic_rank1_Name": "Fawns",
+    "nic_rank1_Color": "#c9870e",
+
+    "john_rank1_Name": "Nice",
+    "john_rank1_Color": "#1cef04",
+
+    "slaves_role_Name": "Jolly Slaves",
+    "slaves_role_Color": "#b25101",
+
+    "scarborough_role_Name": "💰Toy Manufacturers💰",
+    "scarborough_role_Color": "#81f416"
+  },
+
+
+  "Kingdom_of_Fumpledump": {
+    "log_category_Name": "📋Logs📋",
+
+    "command_logs_Name": "command_logs",
+    "command_logs_Topic": "logs for each command made in the server.",
+
+    "bot_logs_Name": "the-historians-logs",
+    "bot_logs_Topic": "logs from the bot.",
+
+    "dyno_logs_Name": "dyno-logs",
+    "dyno_logs_Topic": "logs made by the dyno bot.",
+
+    "dev_logs_Name": "🔨dev-logs💻",
+    "dev_logs_Topic": "Chat for me to ramble on about things I'm developing which will mostly be the discord bot but sometimes I may talk about games I'm working on or even art.",
+
+    "general_category_Name": "👑The Kingdom👑",
+
+    "rules_Name": "laws",
+    "rules_Topic": "Where you can learn the code of conduct of the server",
+
+    "religous_rules_Name": "religous_laws",
+    "religous_rules_Topic": "Where the Pope can state the laws of the church!",
+
+    "ads_Name": "advertisements",
+    "ads_Topic": "Where you can hire men to sell your product to the dying.",
+
+    "news_Name": "news-for-peasants",
+
+    "general_chat_Name": "village",
+    "general_chat_Topic": "The Village: Main source of gossip, drama, and plots to overthrow the king.",
+
+    "memes_Name": "sistine_chapel",
+    "memes_Topic": "Where the art of everything and memes resides!",
+
+    "suggestions_Name": "suggestions_q-and-a",
+    "suggestions_Topic": "This chat is for asking questions about the server/giving suggestions on how to make it better.",
+
+    "bot_channel_Name": "recreation-room",
+    "bot_channel_Topic": "For parties, games, and other everyday activities.",
+
+    "fumplestocks_Name": "fumplestocks™",
+    "fumplestocks_Topic": "For the Kingdom's stock market.",
+
+    "stocks_channel_Name": "stock-discussion",
+    "stocks_channel_Topic": "For people to discuss how they will never get their money back.",
+
+    "auction_Name": "auction_house",
+    "auction_Topic": "Place for the Rich to bid for dominance.",
+
+    "bids_Name": "bids",
+    "bids_Topic": "Where to go to review the highest of bids",
+
+    "music_channel_Name": "Ballroom",
+    "music_channel_Topic": "Place to dance in sing!",
+
+    "revolution_Name": "revolution",
+    "revolution_Topic": "Place for peasants to revolt!",
+
+    "nsfw_channel_Name": "brothel",
+    "nsfw_channel_Topic": "No.",
+
+    "game_category_Name": "🎮Game Castle🎮",
+
+    "deals_channel_Name": "💰deals-of-a-short-lifetime💰",
+    "deals_channel_Topic": "Place for deals to be seen for free games!",
+
+    "fire_channel_Name": "fe",
+    "fire_channel_Topic": "fire emblem",
+
+    "smash_channel_Name": "smash",
+    "smash_channel_Topic": "Place for people to discuss smash.",
+
+    "kyle_category_Name": "†THE CHURCH OF KAIMANA THE XII†",
+
+    "kyle_stories_Name": "tales-from-the-pope",
+    "kyle_stories_Topic": "Where the Pope can regale us with many stories or make announcements.",
+
+    "appeasement_Name": "appeasement",
+    "appeasement_Topic": "Place for people to repent for their sins against the church.",
+
+    "owned_category_Name": "⛺Owned Land⛺",
+
+    "voice_category_Name": "🎤Voice Channels",
+
+    "screenshare_Name": "screenshare",
+    "screenshare_Topic": "Place for people to share their screens.",
+
+    "community_chat_Name": "🕴Community Chat",
+    "saloon_Name": "🍺Tavern🍺",
+    "admin_chat_Name": "🍷Round Table🍷",
+    "music_chat_Name": "🎈Ballroom🎵",
+    "afk_channe_Name": "❓Dungeon❓",
+
+    "gvoice_category_Name": "🎮Game Voice Channels",
+
+    "admin_category_Name": "⚡THE PULLERS OF THE STRINGS!⚡",
+
+
+
+    "micah_role_Name": "Merlin",
+    "micah_role_Color": "#00BFFF",
+
+    "john_role_Name": "King",
+    "john_role_Color": "#FFD700",
+
+    "kyle_role_Name": "Pope",
+    "kyle_role_Color": "#800080",
+
+    "marco_role_Name": "Plague Doctor",
+    "marco_role_Color": "#169235",
+
+    "chris_role_Name": "Archbishop",
+    "chris_role_Color": "#2a472a",
+
+    "bot_role_Name": "Queen",
+    "bot_role_Color": "#EE82EE",
+
+    "nic_role_Name": "Ruler of Peasants",
+    "nic_role_Color": "#A0522D",
+
+    "ashley_role_Name": "Mary Magdalene",
+    "ashley_role_Color": "#0800af",
+
+    "the_bots_role_Name": "Four Horsemen of the Apocalypse",
+    "the_bots_role_Color": "#808080",
+
+    "nic_rank2_Name": "Peasant",
+    "nic_rank2_Color": "#e42626",
+
+    "punish_role_Name": "House Arrest",
+    "punish_role_Color": "#0d0d0d",
+
+    "reporter_role_Name": "Reporter",
+    "reporter_role_Color": "#8B4513",
+
+    "kyle_rank2_Name": "Altar Boy",
+    "kyle_rank2_Color": "#b10000",
+
+    "kyle_rank1_Name": "Priest",
+    "kyle_rank1_Color": "#ff0000",
+
+    "john_rank2_Name": "Knight",
+    "john_rank2_Color": "#ffa900",
+
+    "nic_rank1_Name": "Scum",
+    "nic_rank1_Color": "#c90e0e",
+
+    "john_rank1_Name": "Nobles",
+    "john_rank1_Color": "#bdbdbd",
+
+    "slaves_role_Name": "Slaves",
+    "slaves_role_Color": "#863c00",
+
+    "scarborough_role_Name": "💰Treasurer💰",
+    "scarborough_role_Color": "#f2ff00"
+  }
+}

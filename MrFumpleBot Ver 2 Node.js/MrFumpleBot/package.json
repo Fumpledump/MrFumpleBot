@@ -1,0 +1,17 @@
+{
+  "name": "mrfumplebot",
+  "version": "1.0.0",
+  "description": "Version 2 of MrFumpleBot now made in Node.js and hopefully have way more stuff than Version 1!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Haley",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1",
+    "superagent": "^4.0.0",
+    "twit": "^2.2.11"
+  }
+}

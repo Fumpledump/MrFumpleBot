@@ -1,0 +1,42 @@
+{
+  "white": "#FFFFFF",
+  "beige": "#F5F5DC",
+
+  "crimson": "#DC143C",
+  "red": "#FF0000",
+
+  "orange_red": "#FF4500",
+  "dark_orange": "#FF8C00",
+  "orange": "#FFA500",
+  "gold": "#FFD700",
+
+  "yellow": "#FFFF00",
+
+  "lime": "#00FF00",
+  "olive": "#808000",
+  "green": "#008000",
+
+  "light_blue": "#ADD8E6",
+  "sky_blue": "#87CEEB",
+  "deep_sky_blue": "#00BFFF",
+  "royal_blue": "#4169E1",
+  "blue": "#0000FF",
+
+  "indigo": "#4B0082",
+  "violet": "#EE82EE",
+  "purple": "#800080",
+
+  "hot_pink": "#FF69B4",
+  "pink": "#FFC0CB",
+
+  "brown": "#A52A2A",
+  "golden_rod": "#DAA520",
+  "peru": "#CD853F",
+  "chocolate": "#D2691E",
+  "saddle_brown": "#8B4513",
+  "sienna": "#A0522D",
+
+  "light_gray": "#D3D3D3",
+  "gray": "#808080",
+  "black": "#0d0d0d"
+}
